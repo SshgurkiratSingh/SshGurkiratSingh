@@ -1,8 +1,8 @@
--  New account ,old account got deleted
+- 
 -  👋 Hi, I’m @Gurkiratsinghappzone
-- 👀 I’m interested in (i don't know what to write here)
-- 🌱 I’m currently learning the language i don't even know the name🥲
-- 💞️ I’m looking to collaborate on (empty)
+- 👀 I’m interested in CUI
+- 🌱 I’m currently learning the language C & HTML
+- 💞️ I’m looking to collaborate on Developing Arduino Projects
 - 📫 How to reach me = just mail me on gurkirat7092@yahoo.com
 
 <!---
