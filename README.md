@@ -1,6 +1,5 @@
 - 
 -  👋 Hi, I’m @Gurkiratsinghappzone
-- 👀 I’m interested in CUI
 - 🌱 I’m currently learning the language C & HTML
 - 💞️ I’m looking to collaborate on Developing Arduino Projects
 - 📫 How to reach me = just mail me on gurkirat7092@yahoo.com
