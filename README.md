@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on [Linux-homemedia-server](https://github.com/Gurkiratsinghappzone/Linux-Home-Server)
 
-- 🌱 I’m currently learning **Linux administration**
+- 🌱 I’m currently learning **Web Development**
 
-- 🤝 I’m looking for help with **Cloud Computing**
+- 🤝 I’m looking for help with **Embedded Programming**
 
-- 👨‍💻 All of my projects are available at [my github](my github)
+- 👨‍💻 All of my projects are available at [my github](http://github.com/gurkiratsinghappzone)
 
 - 📫 How to reach me **gurkirat7092@gmail.com**
 
