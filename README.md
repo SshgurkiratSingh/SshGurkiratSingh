@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gurkirat Singh and I'm a Begineer</h2>
+<h2 align="left">Hey there! I'm Gurkirat Singh. I'm a novice and eager to learn.</h2>
 
 ###
 
