@@ -33,9 +33,7 @@
 ###
 
 <div align="left">
-  <a href="http://instagram.com/appzone_gurkirat" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+  
   <a href="gurkirat7092@yahoo.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
